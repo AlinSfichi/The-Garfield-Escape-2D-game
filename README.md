@@ -28,7 +28,8 @@ Scopul jocului este să colecteze un anumit număr de peștișori și să ajung�
 
 ## Autor
 👤 **Alin-Ionuț Sfichi**  
-📧 alinalinsfichi@gmail.com  
+📧 alinalinsfichi@gmail.com
+🎓 **Facultatea de Automatică și Calculatoare, Universitatea Tehnică „Gheorghe Asachi” Iași**  
 
 ---
 🚀 *Proiect creat pentru a demonstra cunoștințe în programarea Java, dezvoltarea jocurilor 2D și utilizarea design pattern-urilor.*
